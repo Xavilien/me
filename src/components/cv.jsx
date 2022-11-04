@@ -8,11 +8,11 @@ export default class Cv extends Component {
                     <div className="tabs_inner">
                         <ul className="nav nav-tabs" id="myTab" role="tablist">
                             <li className="nav-item">
-                                <a className="nav-link active" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
+                                <a className="nav-link active" id="profile-tab" data-toggle="tab" href={"#profile"} role="tab"
                                    aria-controls="profile" aria-selected="false">My Education</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                                <a className="nav-link" id="home-tab" data-toggle="tab" href={"#home"} role="tab"
                                    aria-controls="home" aria-selected="true">My Experiences</a>
                             </li>
                         </ul>
@@ -67,7 +67,7 @@ export default class Cv extends Component {
                                             </div>
                                             <div className="media-body">
                                                 <h4>Singapore Armed Forces</h4>
-                                                <p>Signals Officer <br />Sword of Merit</p>
+                                                <p>Signals Officer</p>
                                             </div>
                                         </div>
                                     </li>

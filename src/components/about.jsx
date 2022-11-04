@@ -24,15 +24,15 @@ export default class About extends Component {
                                     <div className="col-md-4">
                                         <div className="wel_item">
                                             <i className="lnr lnr-book"/>
-                                            <h4>2</h4>
-                                            <p>Years as a Slave</p>
+                                            <h4>7</h4>
+                                            <p>Years of coding</p>
                                         </div>
                                     </div>
                                     <div className="col-md-4">
                                         <div className="wel_item">
                                             <i className="lnr lnr-users"/>
-                                            <h4>$500K</h4>
-                                            <p>Student Debt</p>
+                                            <h4>12</h4>
+                                            <p>Years of formal education</p>
                                         </div>
                                     </div>
                                 </div>
@@ -60,11 +60,11 @@ export default class About extends Component {
                                         </div>
                                     </div>
                                     <div className="skill_item">
-                                        <h4>Web Development <span className="counter">50</span>%</h4>
+                                        <h4>Web Development <span className="counter">40</span>%</h4>
                                         <div className="progress_br">
                                             <div className="progress">
-                                                <div className="progress-bar" role="progressbar" aria-valuenow={50}
-                                                     aria-valuemin={0} aria-valuemax={100} style={{width: '50%'}}/>
+                                                <div className="progress-bar" role="progressbar" aria-valuenow={40}
+                                                     aria-valuemin={0} aria-valuemax={100} style={{width: '40%'}}/>
                                             </div>
                                         </div>
                                     </div>

@@ -19,7 +19,6 @@ export default class Home extends Component {
                                             <h4>Computer science student</h4>
                                             <p>With a passion for artificial intelligence, machine learning, data science and mathematics</p>
                                             <ul className="list basic_info">
-                                                <li><a href="https://www.facebook.com"><i className="lnr lnr-phone-handset" />+65 9634 9789</a></li>
                                                 <li><a href="https://www.facebook.com"><i className="lnr lnr-envelope" />xavilien@gmail.com</a></li>
                                                 <li><a href="https://www.facebook.com"><i className="lnr lnr-home" />Singapore</a></li>
                                             </ul>

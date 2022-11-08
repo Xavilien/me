@@ -18,8 +18,8 @@ export function Home() {
                                         <h4>Computer science student</h4>
                                         <p>With a passion for artificial intelligence, machine learning, data science and mathematics</p>
                                         <ul className="list basic_info">
-                                            <li><a href="https://www.facebook.com"><i className="lnr lnr-envelope" />xavilien@gmail.com</a></li>
-                                            <li><a href="https://www.facebook.com"><i className="lnr lnr-home" />Singapore</a></li>
+                                            <li><a href={"mailto:xavilien@gmail.com"}><i className="lnr lnr-envelope" />xavilien@gmail.com</a></li>
+                                            <li><a><i className="lnr lnr-home" />Singapore</a></li>
                                         </ul>
                                         <ul className="list personal_social">
                                             <li><a href="https://www.linkedin.com/in/xavilien/"><i className="fa fa-linkedin" /></a></li>
